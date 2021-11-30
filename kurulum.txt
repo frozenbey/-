@@ -14,10 +14,10 @@ echo -e $MESAJ
 echo "TeleThon Yükleniyor"
 pip install telethon
 echo "Repo klonlanıyor..."
-git clone https://github.com/herlockexe/installer
+git clone https://github.com/herlockexe/installerim
 clear
 echo -e $MESAJ
-cd installer
+cd installerim
 clear
 echo "Gereksinimler Yükleniyor"
 echo -e $MESAJ
